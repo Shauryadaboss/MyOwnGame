@@ -1,0 +1,11 @@
+charectors: player
+
+story: running to discover more caves. game will randomly generate obstacles avoid them or jump over them.
+
+rules: use WASD to move and SPACE to jump. dont hit the obstacles
+
+challenging: more obstacles will generate and terrain will move faster giving the player less time to react.
+
+interesting: will be unique (different) and interesting.
+
+scoring system: count seconds alive.
